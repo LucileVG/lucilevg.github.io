@@ -38,19 +38,6 @@ experience:
 
       Main languages/softwares used: Python, SQL, Qiime.
 
-  - title: Bioinformatics intern
-    company: IAME
-    company_url: ''
-    company_logo: iame
-    location: Paris 🇫🇷
-    date_start: '2020-02-17'
-    date_end: '2020-06-19'
-    description: >-
-      Research project in bacterial population genetics using Direct-Coupling Analysis to infer the effect of mutations in 60,000 strains of _Escherichia coli_, under the supervision of Pr. Olivier Tenaillon.
-    
-
-      Main language used: Python.
-
   - title: Biostatistician intern
     company: Merck-Serono
     company_url: ''
@@ -77,29 +64,6 @@ experience:
 
 
       Main languages used: Python, R.
-
-  - title: Data Engineer intern
-    company: Thales Alenia Space
-    company_url: ''
-    company_logo: tasb
-    location: Cannes 🇫🇷
-    date_start: '2017-06-12'
-    date_end: '2017-08-31'
-    description: >-
-      Design of data visualisation solutions and participation in a digitalisation project for Thales group.
-    
-
-      Main languages used: Angular, TypeScript/JavaScript (D3.js).
-
-
-  - title: Teacher
-    company: Maison d'Arrêt de Villefranche-sur-Saône
-    company_url: ''
-    company_logo: AP
-    location: Villefranche-sur-Saône 🇫🇷
-    date_start: '2015-09-28'
-    date_end: '2016-04-04'
-    description: As part of my civic service, I gave classes to prisoners in the Villefranche-sur-Saône prison and communicated about the school's training offers.
 
 design:
   columns: '2'
