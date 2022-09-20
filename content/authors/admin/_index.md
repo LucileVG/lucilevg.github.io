@@ -71,12 +71,14 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+#{{< icon name="download" pack="fas" >}} Download my CV ({{< staticref "uploads/resume_fr.pdf" "newtab" >}}fr{{< /staticref >}}/{{< staticref "uploads/resume_en.pdf" "newtab" >}}en{{< /staticref >}}).
 ---
 
-I'm a PhD candidate in population genetics at Université Paris Cité. I use statistical physics and bioinformatics to analyse patterns of mutation and model bacterial evolution.
+I'm a PhD student in population genetics at Université Paris Cité. I use statistical physics and bioinformatics to analyse patterns of mutation and model bacterial evolution.
 
 My work focuses on the short and long term evolution of _Escherichia coli_, using 60,000 genomes to uncover mechanisms of patho-adaptation and acquisition of antibiotic resistance. I sometimes change scale from genetics to the dynamics of microbial communities in the human gut.
 
 
 
-{{< icon name="download" pack="fas" >}} Download my resumé ({{< staticref "uploads/resume_fr.pdf" "newtab" >}}fr{{< /staticref >}}/{{< staticref "uploads/resume_en.pdf" "newtab" >}}en{{< /staticref >}}).
+
