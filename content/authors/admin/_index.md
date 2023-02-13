@@ -77,7 +77,7 @@ highlight_name: true
 
 I'm a PhD student in population genetics at Université Paris Cité. I use statistical physics and bioinformatics to analyse patterns of mutation and model bacterial evolution.
 
-My work focuses on the short and long term evolution of _Escherichia coli_, using 60,000 genomes to uncover mechanisms of patho-adaptation and acquisition of antibiotic resistance. I sometimes change scale from genetics to the dynamics of microbial communities in the human gut.
+My work focuses on the short and long term evolution of _Escherichia coli_, using 81,000 genomes to uncover mechanisms of patho-adaptation and acquisition of antibiotic resistance. I sometimes change scale from genetics to the dynamics of microbial communities in the human gut.
 
 {{< staticref "uploads/CV.pdf" "newtab" >}}{{< icon name="download" pack="fas" >}}{{< /staticref >}} Download my CV.
 
